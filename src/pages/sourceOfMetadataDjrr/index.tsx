@@ -46,7 +46,7 @@ navigate(`/${getParentInfoList(routes, 'path', "pageGafh").slice(1).map(item => 
 // 点击时-档号
           const clickTimeFileNumberLera = (eventOnvp,) =>{
 // 打开页面
-navigate(`/${getParentInfoList(routes, 'path', "pageGafh").slice(1).map(item => item.path).join('/')}`)
+navigate(`/${getParentInfoList(routes, 'path', "pageNfdu").slice(1).map(item => item.path).join('/')}`)
 }
 // 点击时-生成文件
           const whenClickedGenerateFileIvmy = (eventLoda,) =>{
